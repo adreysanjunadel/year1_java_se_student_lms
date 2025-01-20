@@ -1,0 +1,11 @@
+# Build outputs
+adyapanafinal/build/
+adyapanafinal/dist/
+.history/
+
+# IDE files
+adyapanafinal/nbproject/
+
+# Generated output files
+adyapanafinal/test/manifest.mf
+adyapanafinal/test/build.xml
